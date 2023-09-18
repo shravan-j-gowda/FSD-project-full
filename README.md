@@ -11,4 +11,4 @@
 >install depedencies(npm i);
 >start server( npm start);
 
-*****please add atleast one movie to wishlist before Opening "My List" page for the best experience
+*****please add atleast one movie to wishlist before opening and atleast keep one movie in "My List" page for the best experience
